@@ -256,7 +256,7 @@ endif()
 # ===================================== CMake target - pyi ====================================
 
 set(generate_pyi_options ${bindings_library} --sys-path
-        "${CMAKE_CURRENT_BINARY_DIR}")
+        "${CMAKE_CURRENT_BINARY_DIR}" "${pyside_path}")
 
 # Add target to generate pyi file, which depends on the module target.
 add_custom_target("${bindings_library}_pyi" ALL
