@@ -3,6 +3,8 @@
 [![License](https://img.shields.io/pypi/l/PySide6-QtAds)](https://github.com/mborgerson/pyside6_qtads/blob/main/LICENSE)
 ![Monthly Downloads](https://img.shields.io/pypi/dm/PySide6-QtAds)
 
+FORKED for testing purposes only - DO NOT USE THIS REPO FOR PRODUCTION!
+
 Python/PySide6 bindings to the [Qt Advanced Docking System](https://github.com/githubuser0xFFFF/Qt-Advanced-Docking-System) library.
 
 Pre-built wheels are available for Windows, macOS, and Linux. You can install with:
